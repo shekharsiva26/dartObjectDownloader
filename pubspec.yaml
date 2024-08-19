@@ -1,0 +1,26 @@
+name: your_project_name
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to pub.dev using `flutter pub publish`.
+publish_to: "none" 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <4.0.0"
+
+dependencies:
+
+
+  # Dart HTTP package
+  http: ^0.13.6
+
+  # Collection package
+  collection: ^1.17.0
+
+  # Crypto package
+  crypto: ^3.0.2
+
+  # Internationalization and localization package
+  intl: ^0.18.0
+
